@@ -1,1 +1,1 @@
-console.log("hello");
+alert("Swathi's page")
