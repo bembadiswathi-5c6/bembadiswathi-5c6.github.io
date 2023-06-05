@@ -10,7 +10,7 @@ let younginfo={
 }
 let isapjold = true;
 let displayobject;
-let filpdata = function(){
+let flipdata = function(){
     if(isapjold == true){
       displayobject=younginfo;
       apjoldinfo=false;
