@@ -2,16 +2,24 @@
     margin-left: 100px;
 }
 .card{
-    box-shadow: 0 4px 8px 0 rgb(0, 0, 0);
+    box-shadow: 0 4px 8px 0 rgb(0, 0, 0,0.2);
     width: 30%;
     transition: 0.3s;
 }
 .cardimg{
+    margin-left: auto;
+    margin-right: auto;
     width: 100%;
 
     
 }
 .cardbody{
     padding: 2px 16px;
-    
+
+}
+.cardbodydesignation{
+    font-style: italic;
+}
+.card:hover{
+box-shadow:0 20px 32px 0 rgba(0,0,0,0.2);
 }
