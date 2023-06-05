@@ -5,11 +5,12 @@
     box-shadow: 0 4px 8px 0 rgb(0, 0, 0,0.2);
     width: 30%;
     transition: 0.3s;
-}
-.cardimg{
     margin-left: auto;
     margin-right: auto;
-    width: 100%;
+}
+.cardimg{
+    
+    width: 100px;;
 
     
 }
