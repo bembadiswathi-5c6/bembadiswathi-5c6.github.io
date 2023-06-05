@@ -1,4 +1,17 @@
 .container{
-    margin:left;
+    margin-left: 100px;
+}
+.card{
+    box-shadow: 0 4px 8px 0 rgb(0, 0, 0);
+    width: 30%;
+    transition: 0.3s;
+}
+.cardimg{
+    width: 100%;
+
+    
+}
+.cardbody{
+    padding: 2px 16px;
     
 }
