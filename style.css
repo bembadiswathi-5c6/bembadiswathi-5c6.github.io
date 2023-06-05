@@ -1,10 +1,10 @@
 h2{
-    color:grey;
+    color:blueviolet;
 }
- table, th, td {
-    border: 1px solid black;
-  }
-table {
-    border-collapse: collapse;
-    width: 100%;
-} 
+table, th, tr{
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+th, tr{
+  background-color: grey;
+}
