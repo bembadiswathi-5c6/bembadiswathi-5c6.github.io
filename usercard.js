@@ -22,5 +22,4 @@ let flipdata = function(){
     document.getelementById("apj image").src=displayobject.imgurl;
     document.getelementById("apj").innerHTML=displayobject.name;
     document.getelementById("apj-kalam").innerHTML=displayobject.Description;
-
 }
