@@ -1,1 +1,1 @@
-alert("swathi's page");
+console.log("Hello from JS")
